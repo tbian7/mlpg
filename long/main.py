@@ -38,6 +38,7 @@ def train():
     for epoch in range(30):
         train_epoch(epoch)
 
+
 if __name__ == '__main__':
     train()
 
